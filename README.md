@@ -5,7 +5,7 @@
 DDoS Detection and Prevention Using ML Algorithms is a cutting-edge project focused on leveraging machine learning techniques to identify and mitigate Distributed Denial of Service (DDoS) attacks. This project aims to enhance network security by detecting malicious traffic patterns and taking proactive measures to prevent service disruptions.
 </div>
 
-<hr/><br/>
+<hr/>
 
 ### Features
 <ul>
@@ -15,7 +15,6 @@ DDoS Detection and Prevention Using ML Algorithms is a cutting-edge project focu
   <li><b>Automated Mitigation: </b>Automatically triggers preventive actions upon detecting a potential DDoS attack, minimizing downtime and service disruption.</li>
   <li><b>Comprehensive Reporting: </b>Generates detailed reports and alerts for network administrators to review and analyze attack patterns.</li>
 </ul>
-
 <hr/>
 
 ### Usage
